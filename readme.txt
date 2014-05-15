@@ -1,5 +1,6 @@
-## WP Fountain ##
+## WP Fountain 
 
+- Now available on <a href="https://github.com/jeffmcneill/wp-fountain">Github</a>
 - <a href="http://parliamentpress.com/wp-fountain.zip">Download WP Fountain</a>
 - <a href="http://parliamentpress.com/wp-fountain/">WP Fountain</a> is a Wordpress Plugin to support <a href="http://fountain.io">Fountain markup</a> (aka <a href="http://prolost.com/storage/downloads/spmd/SPMD_proposal.html">SPMD</a>) for screenplays.  
 - Contributors: <a href="http://jeffmcneill.com/">jeffmcneill</a>, nyousefi  
@@ -9,9 +10,6 @@
 - Stable tag: 0.0.1  
 
 This plugin modifies screenplay format text for inclusion in web pages. Based on the <a href="http://johnaugust.com/archives/2008/scrippets-are-go">scrippet concept and original code</a> by <a href="http://johnaugust.com">John August</a> and <a href="http://equinox-of-insanity.com">Nima Yousefi</a>.
-
-[flickr]6671819829[/flickr]
-<!--more-->
 
 ## Description of WP Fountain
 
@@ -110,8 +108,6 @@ However, if those options are insufficient, you can modify the scrippets.css fil
 **WP Fountain**
 
 * 0.0.1 - Fork of WP Scrippets
-
-**WP Scrippets**
 
 - 1.5   - Fixed screenshot.
 - 1.4   - Various bug fixes.
