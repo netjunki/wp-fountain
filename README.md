@@ -13,8 +13,6 @@ wp-fountain
 
 This plugin modifies screenplay format text for inclusion in web pages. Based on the <a href="http://johnaugust.com/archives/2008/scrippets-are-go">scrippet concept and original code</a> by <a href="http://johnaugust.com">John August</a> and <a href="http://equinox-of-insanity.com">Nima Yousefi</a>.
 
-[flickr]6671819829[/flickr]
-<!--more-->
 
 ## Description of WP Fountain
 
