@@ -4,7 +4,9 @@ Contributors: <a href="http://jeffmcneill.com/">jeffmcneill</a>, nyousefi
 Tags: screenwriting, scrippets, scrippet, screenplay, film scripts, movie scripts, fountain  
 Requires at least: 1.5  
 Tested up to: 3.9  
-Stable tag: 1.5.3  
+Stable tag: 1.5.4  
+
+WP Fountain supports Scrippets, aka Screen Play Markdown (SPMD) for screenplay display of text.
 
 == Description ==
 
@@ -43,7 +45,7 @@ To include a Scrippet of Fountain in your WordPress blog simply include text in 
 
 This renders as:
 
-<img src="http://jeffmcneill.com/jeffmcneill-images/wp-fountain-screenshot.png">
+<img src="screenshot-1.png">
 
 Note: Scrippet text must be wrapped in **`[scrippet][/scrippet]`** blocks, and must have correct line spaces between screenplay elements.
 
