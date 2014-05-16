@@ -5,7 +5,7 @@ Plugin URI: http://jeffmcneill.com/wp-fountain/
 Description: Modifies screenplay format text for inclusion in web pages. Based on the scrippet concept and original code by <a href="http://johnaugust.com">John August</a> and <a href="http://equinox-of-insanity.com">Nima Yousefi</a>
 Author: Jeff McNeill
 Author URI: http://jeffmcneill.com
-Version: 1.5.5
+Version: 1.5.6
 
 This plugin uses the function found in the file "scrippetize.php" to create the
 formatted HTML.

@@ -4,7 +4,7 @@ Contributors: <a href="http://jeffmcneill.com/">jeffmcneill</a>, nyousefi
 Tags: screenwriting, scrippets, scrippet, screenplay, film scripts, movie scripts, fountain  
 Requires at least: 1.5  
 Tested up to: 3.9  
-Stable tag: 1.5.5  
+Stable tag: 1.5.6  
 
 WP Fountain supports Scrippets, aka Screen Play Markdown (SPMD) for screenplay display of text.
 
@@ -43,9 +43,7 @@ To include a Scrippet of Fountain in your WordPress blog simply include text in 
 > There are bees in the toilet!  
 > [/scrippet]
 
-This renders as:
-
-<img src="/screenshots/screenshot-1.png">
+This renders as seen in <a href="http://wordpress.org/plugins/wp-fountain/screenshots/">screenshots</a>
 
 Note: Scrippet text must be wrapped in **`[scrippet][/scrippet]`** blocks, and must have correct line spaces between screenplay elements.
 
@@ -77,11 +75,15 @@ First, please make sure you are inputting the text in the right format. (Line sp
 
 However, if you're doing it right and it's still not looking right, please go to scrippets.org for troubleshooting help or to submit a bug report.
 
-== The Scrippets are formatted correctly, but the style of the box doesn't fit in with my blog design. What can I do? ==
+= The Scrippets are formatted correctly, but the style of the box doesn't fit in with my blog design. What can I do? =
 
 The Scrippets settings panel in your WordPress administrator's page has several settings that you can change to better suit your blog's design.
 
 However, if those options are insufficient, you can modify the scrippets.css file in *wp-scrippets* plugin folder. Be advised that updates to the Scrippets plugin will overwrite your changes, so you should back them up and remember to add them back in whenever the plugin gets updated.
+
+== Screenshots ==
+
+1. Display of WP Fountain marked up screenplay
 
 == Changelog ==
 
