@@ -4,7 +4,7 @@ Contributors: <a href="http://jeffmcneill.com/">jeffmcneill</a>, nyousefi
 Tags: screenwriting, scrippets, scrippet, screenplay, film scripts, movie scripts, fountain  
 Requires at least: 1.5  
 Tested up to: 3.9  
-Stable tag: 1.5.2  
+Stable tag: 1.5.3  
 
 == Description ==
 
@@ -19,7 +19,7 @@ This plugin modifies screenplay format text for inclusion in web pages. Based on
 
 To include a Scrippet of Fountain in your WordPress blog simply include text in the following format:
 
-> [ scrippet ]  
+> [scrippet]  
 > INT. HOUSE - DAY  
 >   
 > MARY yells across the hall to FRANK.  
@@ -39,33 +39,13 @@ To include a Scrippet of Fountain in your WordPress blog simply include text in 
 > FRANK  
 > (terrified)  
 > There are bees in the toilet!  
-> [ /scrippet ]
+> [/scrippet]
 
 This renders as:
 
-[scrippet]
-INT. HOUSE - DAY
+<img src="http://jeffmcneill.com/jeffmcneill-images/wp-fountain-screenshot.png">
 
-MARY yells across the hall to FRANK.
-
-MARY
-Anything you want to tell me?
-
-FRANK (O.S.)
-I swear, honey, I don't know how mayonnaise got in the piano.
-
-CUT TO:
-
-FRANK
-
-running out of the bathroom.
-
-FRANK
-(terrified)
-There are bees in the toliet!
-[/scrippet]
-
-Note: Scrippet text must be wrapped in **[ scrippet ][ /scrippet ]** blocks (without the spaces before and after the square brackets), and must have correct line spaces between screenplay elements.
+Note: Scrippet text must be wrapped in **`[scrippet][/scrippet]`** blocks, and must have correct line spaces between screenplay elements.
 
 You can make text bold or italic by in the following ways:
 
