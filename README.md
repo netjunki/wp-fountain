@@ -9,8 +9,8 @@ wp-fountain
 - Contributors: <a href="http://jeffmcneill.com/">jeffmcneill</a>, nyousefi  
 - Tags: screenwriting, scrippets, scrippet, screenplay, film scripts, movie scripts, fountain  
 - Requires at least: 1.5  
-- Tested up to: 3.6  
-- Stable tag: 0.0.1  
+- Tested up to: 3.9  
+- Stable tag: 1.5.1  
 
 This plugin modifies screenplay format text for inclusion in web pages. Based on the <a href="http://johnaugust.com/archives/2008/scrippets-are-go">scrippet concept and original code</a> by <a href="http://johnaugust.com">John August</a> and <a href="http://equinox-of-insanity.com">Nima Yousefi</a>.
 
