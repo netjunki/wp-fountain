@@ -4,7 +4,7 @@ Contributors: <a href="http://jeffmcneill.com/">jeffmcneill</a>, nyousefi
 Tags: screenwriting, scrippets, scrippet, screenplay, film scripts, movie scripts, fountain  
 Requires at least: 1.5  
 Tested up to: 3.9  
-Stable tag: 1.5.1  
+Stable tag: 1.5.2  
 
 == Description ==
 
