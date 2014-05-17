@@ -4,7 +4,7 @@ Contributors: <a href="http://jeffmcneill.com/">jeffmcneill</a>, nyousefi
 Tags: screenwriting, scrippets, scrippet, screenplay, film scripts, movie scripts, fountain  
 Requires at least: 1.5  
 Tested up to: 3.9  
-Stable tag: 1.5.6  
+Stable tag: 1.5.7  
 
 WP Fountain supports Scrippets, aka Screen Play Markdown (SPMD) for screenplay display of text.
 
@@ -86,6 +86,10 @@ However, if those options are insufficient, you can modify the scrippets.css fil
 1. Display of WP Fountain marked up screenplay
 
 == Changelog ==
+
+=  1.5.7 =
+
+Various intervening changes to the text file, instructions, FAQ and thelike.
 
 =  1.5.1 =
 
