@@ -50,7 +50,7 @@ if(!get_option('scrippet_options')) {
 
 function add_scrippet_css($u) {
     // add the base CSS
-    echo '<link rel="stylesheet" type="text/css" href="' . WP_PLUGIN_URL . '/wp-scrippets/scrippets.css">' . "\n";
+    echo '<link rel="stylesheet" type="text/css" href="' . WP_PLUGIN_URL . '/wp-fountain/scrippets.css">' . "\n";
     
     // now modify CSS if necessary
     $settings = get_option('scrippet_options');
@@ -69,7 +69,7 @@ function add_scrippet_css($u) {
         
     if($settings['border_style'] == 'Drop Shadow') {
         $shadow_width = $settings['width'] + 50;
-        echo '<link rel="stylesheet" type="text/css" href="' . WP_PLUGIN_URL . '/wp-scrippets/scrippet_shadow.css">' . "\n";
+        echo '<link rel="stylesheet" type="text/css" href="' . WP_PLUGIN_URL . '/wp-fountain/scrippet_shadow.css">' . "\n";
         echo "<style>\n";
         echo "div.scrippet {\n\tmargin-left: 0 !important; \n}\n\n";
         echo "div.inner-shadow {\n\tbackground-color: {$settings['bg_color']} !important; \n}\n\n";
@@ -97,7 +97,7 @@ function add_scrippet_css($u) {
 function scrippets_options_panel() {
     global $default_options;
     $settings = get_option('scrippet_options');
-    $cs_home  = WP_PLUGIN_URL . '/wp-scrippets/colorselector';
+    $cs_home  = WP_PLUGIN_URL . '/wp-fountain/colorselector';
     ?>
     <script type="text/javascript" charset="utf-8">
         function reset_fields() {
@@ -115,7 +115,7 @@ function scrippets_options_panel() {
         var HUE_SLIDER_ARROWS_LOCATION = '<?php echo $cs_home; ?>/position.png';
         var SAT_VAL_SQUARE_LOCATION = '<?php echo $cs_home; ?>/sv.png';
     </script>
-    <script type="text/javascript" src="<?php echo WP_PLUGIN_URL; ?>/wp-scrippets/colorselector.js"></script>
+    <script type="text/javascript" src="<?php echo WP_PLUGIN_URL; ?>/wp-fountain/colorselector.js"></script>
     <div class="wrap">
         <h2>Scrippets Options</h2>
         <p>These are the Scrippet options that you can modify. If you'd like to return the
